@@ -1,0 +1,435 @@
+Resto Name ,Address,Registration No,Date,Day,Menu,Code,Type,Price,Qty_Prep_kg,Qty_Sold_kg,Holiday
+Anjappar,Mylapore,23456,01-01-2020,Wednesday,Vegetable Briyani,VB,Lunch,160,30,25,New Year
+Anjappar,Mylapore,23456,01-01-2020,Wednesday,Vegretable Fried Rice,VFR,Lunch,180,30,28,New Year
+Anjappar,Mylapore,23456,01-01-2020,Wednesday,Veg thali meals ,VMLS,Lunch,190,45,30,New Year
+Anjappar,Mylapore,23456,01-01-2020,Wednesday,Non-veg thali meals ,NV MEALS,Lunch,225,60,46,New Year
+Anjappar,Mylapore,23456,01-01-2020,Wednesday,Chicken Briyani,CB,Lunch,265,60,60,New Year
+Anjappar,Mylapore,23456,01-01-2020,Wednesday,Mutton Briyani,MB,Lunch,315,50,50,New Year
+Anjappar,Mylapore,23456,01-01-2020,Wednesday,Prawn Briyani,PB,Lunch,240,40,32,New Year
+Anjappar,Mylapore,23456,02-01-2020,Thursday,Vegetable Briyani,VB,Lunch,160,25,24,Working Day
+Anjappar,Mylapore,23456,02-01-2020,Thursday,Vegretable Fried Rice,VFR,Lunch,180,15,13,Working Day
+Anjappar,Mylapore,23456,02-01-2020,Thursday,Veg thali meals ,VMLS,Lunch,190,30,24,Working Day
+Anjappar,Mylapore,23456,02-01-2020,Thursday,Non-veg thali meals ,NV MEALS,Lunch,225,55,45,Working Day
+Anjappar,Mylapore,23456,02-01-2020,Thursday,Chicken Briyani,CB,Lunch,265,50,49,Working Day
+Anjappar,Mylapore,23456,02-01-2020,Thursday,Mutton Briyani,MB,Lunch,315,40,31,Working Day
+Anjappar,Mylapore,23456,02-01-2020,Thursday,Prawn Briyani,PB,Lunch,240,20,9,Working Day
+Anjappar,Mylapore,23456,03-01-2020,Friday,Vegetable Briyani,VB,Lunch,160,45,42,Working Day
+Anjappar,Mylapore,23456,03-01-2020,Friday,Vegretable Fried Rice,VFR,Lunch,180,20,14,Working Day
+Anjappar,Mylapore,23456,03-01-2020,Friday,Veg thali meals ,VMLS,Lunch,190,50,49,Working Day
+Anjappar,Mylapore,23456,03-01-2020,Friday,Non-veg thali meals ,NV MEALS,Lunch,225,70,63,Working Day
+Anjappar,Mylapore,23456,03-01-2020,Friday,Chicken Briyani,CB,Lunch,265,80,67,Working Day
+Anjappar,Mylapore,23456,03-01-2020,Friday,Mutton Briyani,MB,Lunch,315,50,41,Working Day
+Anjappar,Mylapore,23456,03-01-2020,Friday,Prawn Briyani,PB,Lunch,240,40,35,Working Day
+Anjappar,Mylapore,23456,04-01-2020,Saturday,Vegetable Briyani,VB,Lunch,160,45,42,Working Day
+Anjappar,Mylapore,23456,04-01-2020,Saturday,Vegretable Fried Rice,VFR,Lunch,180,20,11,Working Day
+Anjappar,Mylapore,23456,04-01-2020,Saturday,Veg thali meals ,VMLS,Lunch,190,50,44,Working Day
+Anjappar,Mylapore,23456,04-01-2020,Saturday,Non-veg thali meals ,NV MEALS,Lunch,225,70,60,Working Day
+Anjappar,Mylapore,23456,04-01-2020,Saturday,Chicken Briyani,CB,Lunch,265,80,70,Working Day
+Anjappar,Mylapore,23456,04-01-2020,Saturday,Mutton Briyani,MB,Lunch,315,50,45,Working Day
+Anjappar,Mylapore,23456,04-01-2020,Saturday,Prawn Briyani,PB,Lunch,240,40,27,Working Day
+Anjappar,Mylapore,23456,05-01-2020,Sunday,Vegetable Briyani,VB,Lunch,160,45,42,Working Day
+Anjappar,Mylapore,23456,05-01-2020,Sunday,Vegretable Fried Rice,VFR,Lunch,180,20,15,Working Day
+Anjappar,Mylapore,23456,05-01-2020,Sunday,Veg thali meals ,VMLS,Lunch,190,50,44,Working Day
+Anjappar,Mylapore,23456,05-01-2020,Sunday,Non-veg thali meals ,NV MEALS,Lunch,225,70,63,Working Day
+Anjappar,Mylapore,23456,05-01-2020,Sunday,Chicken Briyani,CB,Lunch,265,80,67,Working Day
+Anjappar,Mylapore,23456,05-01-2020,Sunday,Mutton Briyani,MB,Lunch,315,50,43,Working Day
+Anjappar,Mylapore,23456,05-01-2020,Sunday,Prawn Briyani,PB,Lunch,240,40,27,Working Day
+Anjappar,Mylapore,23456,06-01-2020,Monday,Vegetable Briyani,VB,Lunch,160,25,25,Working Day
+Anjappar,Mylapore,23456,06-01-2020,Monday,Vegretable Fried Rice,VFR,Lunch,180,15,13,Working Day
+Anjappar,Mylapore,23456,06-01-2020,Monday,Veg thali meals ,VMLS,Lunch,190,30,23,Working Day
+Anjappar,Mylapore,23456,06-01-2020,Monday,Non-veg thali meals ,NV MEALS,Lunch,225,55,49,Working Day
+Anjappar,Mylapore,23456,06-01-2020,Monday,Chicken Briyani,CB,Lunch,265,50,53,Working Day
+Anjappar,Mylapore,23456,06-01-2020,Monday,Mutton Briyani,MB,Lunch,315,40,36,Working Day
+Anjappar,Mylapore,23456,06-01-2020,Monday,Prawn Briyani,PB,Lunch,240,20,15,Working Day
+Anjappar,Mylapore,23456,07-01-2020,Tuesday,Vegetable Briyani,VB,Lunch,160,25,21,Working Day
+Anjappar,Mylapore,23456,07-01-2020,Tuesday,Vegretable Fried Rice,VFR,Lunch,180,15,9,Working Day
+Anjappar,Mylapore,23456,07-01-2020,Tuesday,Veg thali meals ,VMLS,Lunch,190,30,24,Working Day
+Anjappar,Mylapore,23456,07-01-2020,Tuesday,Non-veg thali meals ,NV MEALS,Lunch,225,55,47,Working Day
+Anjappar,Mylapore,23456,07-01-2020,Tuesday,Chicken Briyani,CB,Lunch,265,50,52,Working Day
+Anjappar,Mylapore,23456,07-01-2020,Tuesday,Mutton Briyani,MB,Lunch,315,40,32,Working Day
+Anjappar,Mylapore,23456,07-01-2020,Tuesday,Prawn Briyani,PB,Lunch,240,20,9,Working Day
+Anjappar,Mylapore,23456,08-01-2020,Wednesday,Vegetable Briyani,VB,Lunch,160,25,24,Working Day
+Anjappar,Mylapore,23456,08-01-2020,Wednesday,Vegretable Fried Rice,VFR,Lunch,180,15,10,Working Day
+Anjappar,Mylapore,23456,08-01-2020,Wednesday,Veg thali meals ,VMLS,Lunch,190,30,21,Working Day
+Anjappar,Mylapore,23456,08-01-2020,Wednesday,Non-veg thali meals ,NV MEALS,Lunch,225,55,52,Working Day
+Anjappar,Mylapore,23456,08-01-2020,Wednesday,Chicken Briyani,CB,Lunch,265,50,51,Working Day
+Anjappar,Mylapore,23456,08-01-2020,Wednesday,Mutton Briyani,MB,Lunch,315,40,38,Working Day
+Anjappar,Mylapore,23456,08-01-2020,Wednesday,Prawn Briyani,PB,Lunch,240,20,13,Working Day
+Anjappar,Mylapore,23456,09-01-2020,Thursday,Vegetable Briyani,VB,Lunch,160,25,20,Working Day
+Anjappar,Mylapore,23456,09-01-2020,Thursday,Vegretable Fried Rice,VFR,Lunch,180,15,13,Working Day
+Anjappar,Mylapore,23456,09-01-2020,Thursday,Veg thali meals ,VMLS,Lunch,190,30,24,Working Day
+Anjappar,Mylapore,23456,09-01-2020,Thursday,Non-veg thali meals ,NV MEALS,Lunch,225,55,50,Working Day
+Anjappar,Mylapore,23456,09-01-2020,Thursday,Chicken Briyani,CB,Lunch,265,50,50,Working Day
+Anjappar,Mylapore,23456,09-01-2020,Thursday,Mutton Briyani,MB,Lunch,315,40,32,Working Day
+Anjappar,Mylapore,23456,09-01-2020,Thursday,Prawn Briyani,PB,Lunch,240,20,10,Working Day
+Anjappar,Mylapore,23456,10-01-2020,Friday,Vegetable Briyani,VB,Lunch,160,45,42,Working Day
+Anjappar,Mylapore,23456,10-01-2020,Friday,Vegretable Fried Rice,VFR,Lunch,180,20,16,Working Day
+Anjappar,Mylapore,23456,10-01-2020,Friday,Veg thali meals ,VMLS,Lunch,190,50,42,Working Day
+Anjappar,Mylapore,23456,10-01-2020,Friday,Non-veg thali meals ,NV MEALS,Lunch,225,70,61,Working Day
+Anjappar,Mylapore,23456,10-01-2020,Friday,Chicken Briyani,CB,Lunch,265,80,71,Working Day
+Anjappar,Mylapore,23456,10-01-2020,Friday,Mutton Briyani,MB,Lunch,315,50,45,Working Day
+Anjappar,Mylapore,23456,10-01-2020,Friday,Prawn Briyani,PB,Lunch,240,40,28,Working Day
+Anjappar,Mylapore,23456,11-01-2020,Saturday,Vegetable Briyani,VB,Lunch,160,45,31,Working Day
+Anjappar,Mylapore,23456,11-01-2020,Saturday,Vegretable Fried Rice,VFR,Lunch,180,20,10,Working Day
+Anjappar,Mylapore,23456,11-01-2020,Saturday,Veg thali meals ,VMLS,Lunch,190,50,43,Working Day
+Anjappar,Mylapore,23456,11-01-2020,Saturday,Non-veg thali meals ,NV MEALS,Lunch,225,70,62,Working Day
+Anjappar,Mylapore,23456,11-01-2020,Saturday,Chicken Briyani,CB,Lunch,265,80,70,Working Day
+Anjappar,Mylapore,23456,11-01-2020,Saturday,Mutton Briyani,MB,Lunch,315,50,38,Working Day
+Anjappar,Mylapore,23456,11-01-2020,Saturday,Prawn Briyani,PB,Lunch,240,40,22,Working Day
+Anjappar,Mylapore,23456,12-01-2020,Sunday,Vegetable Briyani,VB,Lunch,160,45,41,Working Day
+Anjappar,Mylapore,23456,12-01-2020,Sunday,Vegretable Fried Rice,VFR,Lunch,180,20,11,Working Day
+Anjappar,Mylapore,23456,12-01-2020,Sunday,Veg thali meals ,VMLS,Lunch,190,50,40,Working Day
+Anjappar,Mylapore,23456,12-01-2020,Sunday,Non-veg thali meals ,NV MEALS,Lunch,225,70,60,Working Day
+Anjappar,Mylapore,23456,12-01-2020,Sunday,Chicken Briyani,CB,Lunch,265,80,67,Working Day
+Anjappar,Mylapore,23456,12-01-2020,Sunday,Mutton Briyani,MB,Lunch,315,50,41,Working Day
+Anjappar,Mylapore,23456,12-01-2020,Sunday,Prawn Briyani,PB,Lunch,240,40,29,Working Day
+Anjappar,Mylapore,23456,13-01-2020,Monday,Vegetable Briyani,VB,Lunch,160,25,23,Working Day
+Anjappar,Mylapore,23456,13-01-2020,Monday,Vegretable Fried Rice,VFR,Lunch,180,15,13,Working Day
+Anjappar,Mylapore,23456,13-01-2020,Monday,Veg thali meals ,VMLS,Lunch,190,30,21,Working Day
+Anjappar,Mylapore,23456,13-01-2020,Monday,Non-veg thali meals ,NV MEALS,Lunch,225,55,43,Working Day
+Anjappar,Mylapore,23456,13-01-2020,Monday,Chicken Briyani,CB,Lunch,265,50,48,Working Day
+Anjappar,Mylapore,23456,13-01-2020,Monday,Mutton Briyani,MB,Lunch,315,40,33,Working Day
+Anjappar,Mylapore,23456,13-01-2020,Monday,Prawn Briyani,PB,Lunch,240,20,9,Working Day
+Anjappar,Mylapore,23456,14-01-2020,Tuesday,Vegetable Briyani,VB,Lunch,160,25,22,Working Day
+Anjappar,Mylapore,23456,14-01-2020,Tuesday,Vegretable Fried Rice,VFR,Lunch,180,15,11,Working Day
+Anjappar,Mylapore,23456,14-01-2020,Tuesday,Veg thali meals ,VMLS,Lunch,190,30,23,Working Day
+Anjappar,Mylapore,23456,14-01-2020,Tuesday,Non-veg thali meals ,NV MEALS,Lunch,225,55,44,Working Day
+Anjappar,Mylapore,23456,14-01-2020,Tuesday,Chicken Briyani,CB,Lunch,265,50,53,Working Day
+Anjappar,Mylapore,23456,14-01-2020,Tuesday,Mutton Briyani,MB,Lunch,315,40,35,Working Day
+Anjappar,Mylapore,23456,14-01-2020,Tuesday,Prawn Briyani,PB,Lunch,240,20,12,Working Day
+Anjappar,Mylapore,23456,15-01-2020,Wednesday,Vegetable Briyani,VB,Lunch,160,25,15,Makar Sankranti / Pongal
+Anjappar,Mylapore,23456,15-01-2020,Wednesday,Vegretable Fried Rice,VFR,Lunch,180,15,10,Makar Sankranti / Pongal
+Anjappar,Mylapore,23456,15-01-2020,Wednesday,Veg thali meals ,VMLS,Lunch,190,30,26,Makar Sankranti / Pongal
+Anjappar,Mylapore,23456,15-01-2020,Wednesday,Non-veg thali meals ,NV MEALS,Lunch,225,55,30,Makar Sankranti / Pongal
+Anjappar,Mylapore,23456,15-01-2020,Wednesday,Chicken Briyani,CB,Lunch,265,50,40,Makar Sankranti / Pongal
+Anjappar,Mylapore,23456,15-01-2020,Wednesday,Mutton Briyani,MB,Lunch,315,40,33,Makar Sankranti / Pongal
+Anjappar,Mylapore,23456,15-01-2020,Wednesday,Prawn Briyani,PB,Lunch,240,20,11,Makar Sankranti / Pongal
+Anjappar,Mylapore,23456,16-01-2020,Thursday,Vegetable Briyani,VB,Lunch,160,25,20,Working Day
+Anjappar,Mylapore,23456,16-01-2020,Thursday,Vegretable Fried Rice,VFR,Lunch,180,15,12,Working Day
+Anjappar,Mylapore,23456,16-01-2020,Thursday,Veg thali meals ,VMLS,Lunch,190,30,23,Working Day
+Anjappar,Mylapore,23456,16-01-2020,Thursday,Non-veg thali meals ,NV MEALS,Lunch,225,55,45,Working Day
+Anjappar,Mylapore,23456,16-01-2020,Thursday,Chicken Briyani,CB,Lunch,265,50,52,Working Day
+Anjappar,Mylapore,23456,16-01-2020,Thursday,Mutton Briyani,MB,Lunch,315,40,38,Working Day
+Anjappar,Mylapore,23456,16-01-2020,Thursday,Prawn Briyani,PB,Lunch,240,20,15,Working Day
+Anjappar,Mylapore,23456,17-01-2020,Friday,Vegetable Briyani,VB,Lunch,160,45,30,Working Day
+Anjappar,Mylapore,23456,17-01-2020,Friday,Vegretable Fried Rice,VFR,Lunch,180,20,10,Working Day
+Anjappar,Mylapore,23456,17-01-2020,Friday,Veg thali meals ,VMLS,Lunch,190,50,48,Working Day
+Anjappar,Mylapore,23456,17-01-2020,Friday,Non-veg thali meals ,NV MEALS,Lunch,225,70,63,Working Day
+Anjappar,Mylapore,23456,17-01-2020,Friday,Chicken Briyani,CB,Lunch,265,80,67,Working Day
+Anjappar,Mylapore,23456,17-01-2020,Friday,Mutton Briyani,MB,Lunch,315,50,38,Working Day
+Anjappar,Mylapore,23456,17-01-2020,Friday,Prawn Briyani,PB,Lunch,240,40,34,Working Day
+Anjappar,Mylapore,23456,18-01-2020,Saturday,Vegetable Briyani,VB,Lunch,160,45,41,Working Day
+Anjappar,Mylapore,23456,18-01-2020,Saturday,Vegretable Fried Rice,VFR,Lunch,180,20,12,Working Day
+Anjappar,Mylapore,23456,18-01-2020,Saturday,Veg thali meals ,VMLS,Lunch,190,50,49,Working Day
+Anjappar,Mylapore,23456,18-01-2020,Saturday,Non-veg thali meals ,NV MEALS,Lunch,225,70,62,Working Day
+Anjappar,Mylapore,23456,18-01-2020,Saturday,Chicken Briyani,CB,Lunch,265,80,68,Working Day
+Anjappar,Mylapore,23456,18-01-2020,Saturday,Mutton Briyani,MB,Lunch,315,50,43,Working Day
+Anjappar,Mylapore,23456,18-01-2020,Saturday,Prawn Briyani,PB,Lunch,240,40,34,Working Day
+Anjappar,Mylapore,23456,19-01-2020,Sunday,Vegetable Briyani,VB,Lunch,160,45,32,Working Day
+Anjappar,Mylapore,23456,19-01-2020,Sunday,Vegretable Fried Rice,VFR,Lunch,180,20,15,Working Day
+Anjappar,Mylapore,23456,19-01-2020,Sunday,Veg thali meals ,VMLS,Lunch,190,50,48,Working Day
+Anjappar,Mylapore,23456,19-01-2020,Sunday,Non-veg thali meals ,NV MEALS,Lunch,225,70,61,Working Day
+Anjappar,Mylapore,23456,19-01-2020,Sunday,Chicken Briyani,CB,Lunch,265,80,65,Working Day
+Anjappar,Mylapore,23456,19-01-2020,Sunday,Mutton Briyani,MB,Lunch,315,50,48,Working Day
+Anjappar,Mylapore,23456,19-01-2020,Sunday,Prawn Briyani,PB,Lunch,240,40,28,Working Day
+Anjappar,Mylapore,23456,20-01-2020,Monday,Vegetable Briyani,VB,Lunch,160,25,25,Working Day
+Anjappar,Mylapore,23456,20-01-2020,Monday,Vegretable Fried Rice,VFR,Lunch,180,15,10,Working Day
+Anjappar,Mylapore,23456,20-01-2020,Monday,Veg thali meals ,VMLS,Lunch,190,30,26,Working Day
+Anjappar,Mylapore,23456,20-01-2020,Monday,Non-veg thali meals ,NV MEALS,Lunch,225,55,44,Working Day
+Anjappar,Mylapore,23456,20-01-2020,Monday,Chicken Briyani,CB,Lunch,265,50,50,Working Day
+Anjappar,Mylapore,23456,20-01-2020,Monday,Mutton Briyani,MB,Lunch,315,40,30,Working Day
+Anjappar,Mylapore,23456,20-01-2020,Monday,Prawn Briyani,PB,Lunch,240,20,13,Working Day
+Anjappar,Mylapore,23456,21-01-2020,Tuesday,Vegetable Briyani,VB,Lunch,160,25,20,Working Day
+Anjappar,Mylapore,23456,21-01-2020,Tuesday,Vegretable Fried Rice,VFR,Lunch,180,15,11,Working Day
+Anjappar,Mylapore,23456,21-01-2020,Tuesday,Veg thali meals ,VMLS,Lunch,190,30,20,Working Day
+Anjappar,Mylapore,23456,21-01-2020,Tuesday,Non-veg thali meals ,NV MEALS,Lunch,225,55,45,Working Day
+Anjappar,Mylapore,23456,21-01-2020,Tuesday,Chicken Briyani,CB,Lunch,265,50,53,Working Day
+Anjappar,Mylapore,23456,21-01-2020,Tuesday,Mutton Briyani,MB,Lunch,315,40,36,Working Day
+Anjappar,Mylapore,23456,21-01-2020,Tuesday,Prawn Briyani,PB,Lunch,240,20,10,Working Day
+Anjappar,Mylapore,23456,22-01-2020,Wednesday,Vegetable Briyani,VB,Lunch,160,25,21,Working Day
+Anjappar,Mylapore,23456,22-01-2020,Wednesday,Vegretable Fried Rice,VFR,Lunch,180,15,11,Working Day
+Anjappar,Mylapore,23456,22-01-2020,Wednesday,Veg thali meals ,VMLS,Lunch,190,30,25,Working Day
+Anjappar,Mylapore,23456,22-01-2020,Wednesday,Non-veg thali meals ,NV MEALS,Lunch,225,55,51,Working Day
+Anjappar,Mylapore,23456,22-01-2020,Wednesday,Chicken Briyani,CB,Lunch,265,50,52,Working Day
+Anjappar,Mylapore,23456,22-01-2020,Wednesday,Mutton Briyani,MB,Lunch,315,40,33,Working Day
+Anjappar,Mylapore,23456,22-01-2020,Wednesday,Prawn Briyani,PB,Lunch,240,20,13,Working Day
+Anjappar,Mylapore,23456,23-01-2020,Thursday,Vegetable Briyani,VB,Lunch,160,25,21,Working Day
+Anjappar,Mylapore,23456,23-01-2020,Thursday,Vegretable Fried Rice,VFR,Lunch,180,15,13,Working Day
+Anjappar,Mylapore,23456,23-01-2020,Thursday,Veg thali meals ,VMLS,Lunch,190,30,24,Working Day
+Anjappar,Mylapore,23456,23-01-2020,Thursday,Non-veg thali meals ,NV MEALS,Lunch,225,55,45,Working Day
+Anjappar,Mylapore,23456,23-01-2020,Thursday,Chicken Briyani,CB,Lunch,265,50,50,Working Day
+Anjappar,Mylapore,23456,23-01-2020,Thursday,Mutton Briyani,MB,Lunch,315,40,32,Working Day
+Anjappar,Mylapore,23456,23-01-2020,Thursday,Prawn Briyani,PB,Lunch,240,20,11,Working Day
+Anjappar,Mylapore,23456,24-01-2020,Friday,Vegetable Briyani,VB,Lunch,160,45,35,Working Day
+Anjappar,Mylapore,23456,24-01-2020,Friday,Vegretable Fried Rice,VFR,Lunch,180,20,12,Working Day
+Anjappar,Mylapore,23456,24-01-2020,Friday,Veg thali meals ,VMLS,Lunch,190,50,44,Working Day
+Anjappar,Mylapore,23456,24-01-2020,Friday,Non-veg thali meals ,NV MEALS,Lunch,225,70,63,Working Day
+Anjappar,Mylapore,23456,24-01-2020,Friday,Chicken Briyani,CB,Lunch,265,80,72,Working Day
+Anjappar,Mylapore,23456,24-01-2020,Friday,Mutton Briyani,MB,Lunch,315,50,46,Working Day
+Anjappar,Mylapore,23456,24-01-2020,Friday,Prawn Briyani,PB,Lunch,240,40,33,Working Day
+Anjappar,Mylapore,23456,25-01-2020,Saturday,Vegetable Briyani,VB,Lunch,160,45,37,Working Day
+Anjappar,Mylapore,23456,25-01-2020,Saturday,Vegretable Fried Rice,VFR,Lunch,180,20,9,Working Day
+Anjappar,Mylapore,23456,25-01-2020,Saturday,Veg thali meals ,VMLS,Lunch,190,50,49,Working Day
+Anjappar,Mylapore,23456,25-01-2020,Saturday,Non-veg thali meals ,NV MEALS,Lunch,225,70,62,Working Day
+Anjappar,Mylapore,23456,25-01-2020,Saturday,Chicken Briyani,CB,Lunch,265,80,69,Working Day
+Anjappar,Mylapore,23456,25-01-2020,Saturday,Mutton Briyani,MB,Lunch,315,50,44,Working Day
+Anjappar,Mylapore,23456,25-01-2020,Saturday,Prawn Briyani,PB,Lunch,240,40,31,Working Day
+Anjappar,Mylapore,23456,26-01-2020,Sunday,Vegetable Briyani,VB,Lunch,160,45,30,Republic Day
+Anjappar,Mylapore,23456,26-01-2020,Sunday,Vegretable Fried Rice,VFR,Lunch,180,20,16,Republic Day
+Anjappar,Mylapore,23456,26-01-2020,Sunday,Veg thali meals ,VMLS,Lunch,190,50,40,Republic Day
+Anjappar,Mylapore,23456,26-01-2020,Sunday,Non-veg thali meals ,NV MEALS,Lunch,225,70,61,Republic Day
+Anjappar,Mylapore,23456,26-01-2020,Sunday,Chicken Briyani,CB,Lunch,265,80,68,Republic Day
+Anjappar,Mylapore,23456,26-01-2020,Sunday,Mutton Briyani,MB,Lunch,315,50,39,Republic Day
+Anjappar,Mylapore,23456,26-01-2020,Sunday,Prawn Briyani,PB,Lunch,240,40,31,Republic Day
+Anjappar,Mylapore,23456,27-01-2020,Monday,Vegetable Briyani,VB,Lunch,160,25,23,Working Day
+Anjappar,Mylapore,23456,27-01-2020,Monday,Vegretable Fried Rice,VFR,Lunch,180,15,12,Working Day
+Anjappar,Mylapore,23456,27-01-2020,Monday,Veg thali meals ,VMLS,Lunch,190,30,21,Working Day
+Anjappar,Mylapore,23456,27-01-2020,Monday,Non-veg thali meals ,NV MEALS,Lunch,225,55,43,Working Day
+Anjappar,Mylapore,23456,27-01-2020,Monday,Chicken Briyani,CB,Lunch,265,50,52,Working Day
+Anjappar,Mylapore,23456,27-01-2020,Monday,Mutton Briyani,MB,Lunch,315,40,31,Working Day
+Anjappar,Mylapore,23456,27-01-2020,Monday,Prawn Briyani,PB,Lunch,240,20,13,Working Day
+Anjappar,Mylapore,23456,27-01-2020,Tuesday,Vegetable Briyani,VB,Lunch,160,25,25,Working Day
+Anjappar,Mylapore,23456,28-01-2020,Tuesday,Vegretable Fried Rice,VFR,Lunch,180,15,10,Working Day
+Anjappar,Mylapore,23456,28-01-2020,Tuesday,Veg thali meals ,VMLS,Lunch,190,30,21,Working Day
+Anjappar,Mylapore,23456,28-01-2020,Tuesday,Non-veg thali meals ,NV MEALS,Lunch,225,55,44,Working Day
+Anjappar,Mylapore,23456,28-01-2020,Tuesday,Chicken Briyani,CB,Lunch,265,50,49,Working Day
+Anjappar,Mylapore,23456,28-01-2020,Tuesday,Mutton Briyani,MB,Lunch,315,40,35,Working Day
+Anjappar,Mylapore,23456,28-01-2020,Tuesday,Prawn Briyani,PB,Lunch,240,20,13,Working Day
+Anjappar,Mylapore,23456,29-01-2020,Wednesday,Vegetable Briyani,VB,Lunch,160,25,23,Working Day
+Anjappar,Mylapore,23456,29-01-2020,Wednesday,Vegretable Fried Rice,VFR,Lunch,180,15,11,Working Day
+Anjappar,Mylapore,23456,29-01-2020,Wednesday,Veg thali meals ,VMLS,Lunch,190,30,27,Working Day
+Anjappar,Mylapore,23456,29-01-2020,Wednesday,Non-veg thali meals ,NV MEALS,Lunch,225,55,50,Working Day
+Anjappar,Mylapore,23456,29-01-2020,Wednesday,Chicken Briyani,CB,Lunch,265,50,53,Working Day
+Anjappar,Mylapore,23456,29-01-2020,Wednesday,Mutton Briyani,MB,Lunch,315,40,36,Working Day
+Anjappar,Mylapore,23456,29-01-2020,Wednesday,Prawn Briyani,PB,Lunch,240,20,14,Working Day
+Anjappar,Mylapore,23456,30-01-2020,Thursday,Vegetable Briyani,VB,Lunch,160,25,22,Working Day
+Anjappar,Mylapore,23456,30-01-2020,Thursday,Vegretable Fried Rice,VFR,Lunch,180,15,10,Working Day
+Anjappar,Mylapore,23456,30-01-2020,Thursday,Veg thali meals ,VMLS,Lunch,190,30,22,Working Day
+Anjappar,Mylapore,23456,30-01-2020,Thursday,Non-veg thali meals ,NV MEALS,Lunch,225,55,48,Working Day
+Anjappar,Mylapore,23456,30-01-2020,Thursday,Chicken Briyani,CB,Lunch,265,50,50,Working Day
+Anjappar,Mylapore,23456,30-01-2020,Thursday,Mutton Briyani,MB,Lunch,315,40,33,Working Day
+Anjappar,Mylapore,23456,30-01-2020,Thursday,Prawn Briyani,PB,Lunch,240,20,13,Working Day
+Anjappar,Mylapore,23456,31-01-2020,Friday,Vegetable Briyani,VB,Lunch,160,45,35,Working Day
+Anjappar,Mylapore,23456,31-01-2020,Friday,Vegretable Fried Rice,VFR,Lunch,180,20,16,Working Day
+Anjappar,Mylapore,23456,31-01-2020,Friday,Veg thali meals ,VMLS,Lunch,190,50,41,Working Day
+Anjappar,Mylapore,23456,31-01-2020,Friday,Non-veg thali meals ,NV MEALS,Lunch,225,70,63,Working Day
+Anjappar,Mylapore,23456,31-01-2020,Friday,Chicken Briyani,CB,Lunch,265,80,68,Working Day
+Anjappar,Mylapore,23456,31-01-2020,Friday,Mutton Briyani,MB,Lunch,315,50,41,Working Day
+Anjappar,Mylapore,23456,31-01-2020,Friday,Prawn Briyani,PB,Lunch,240,40,23,Working Day
+Anjappar,Mylapore,23456,01-02-2020,Saturday,Vegetable Briyani,VB,Lunch,160,45,32,Working Day
+Anjappar,Mylapore,23456,01-02-2020,Saturday,Vegretable Fried Rice,VFR,Lunch,180,20,10,Working Day
+Anjappar,Mylapore,23456,01-02-2020,Saturday,Veg thali meals ,VMLS,Lunch,190,50,47,Working Day
+Anjappar,Mylapore,23456,01-02-2020,Saturday,Non-veg thali meals ,NV MEALS,Lunch,225,70,64,Working Day
+Anjappar,Mylapore,23456,01-02-2020,Saturday,Chicken Briyani,CB,Lunch,265,80,68,Working Day
+Anjappar,Mylapore,23456,01-02-2020,Saturday,Mutton Briyani,MB,Lunch,315,50,43,Working Day
+Anjappar,Mylapore,23456,01-02-2020,Saturday,Prawn Briyani,PB,Lunch,240,40,30,Working Day
+Anjappar,Mylapore,23456,02-02-2020,Sunday,Vegetable Briyani,VB,Lunch,160,45,38,Working Day
+Anjappar,Mylapore,23456,02-02-2020,Sunday,Vegretable Fried Rice,VFR,Lunch,180,20,14,Working Day
+Anjappar,Mylapore,23456,02-02-2020,Sunday,Veg thali meals ,VMLS,Lunch,190,50,43,Working Day
+Anjappar,Mylapore,23456,02-02-2020,Sunday,Non-veg thali meals ,NV MEALS,Lunch,225,70,62,Working Day
+Anjappar,Mylapore,23456,02-02-2020,Sunday,Chicken Briyani,CB,Lunch,265,80,66,Working Day
+Anjappar,Mylapore,23456,02-02-2020,Sunday,Mutton Briyani,MB,Lunch,315,50,42,Working Day
+Anjappar,Mylapore,23456,02-02-2020,Sunday,Prawn Briyani,PB,Lunch,240,40,35,Working Day
+Anjappar,Mylapore,23456,03-02-2020,Monday,Vegetable Briyani,VB,Lunch,160,25,20,Working Day
+Anjappar,Mylapore,23456,03-02-2020,Monday,Vegretable Fried Rice,VFR,Lunch,180,15,11,Working Day
+Anjappar,Mylapore,23456,03-02-2020,Monday,Veg thali meals ,VMLS,Lunch,190,30,20,Working Day
+Anjappar,Mylapore,23456,03-02-2020,Monday,Non-veg thali meals ,NV MEALS,Lunch,225,55,44,Working Day
+Anjappar,Mylapore,23456,03-02-2020,Monday,Chicken Briyani,CB,Lunch,265,50,50,Working Day
+Anjappar,Mylapore,23456,03-02-2020,Monday,Mutton Briyani,MB,Lunch,315,40,38,Working Day
+Anjappar,Mylapore,23456,03-02-2020,Monday,Prawn Briyani,PB,Lunch,240,20,13,Working Day
+Anjappar,Mylapore,23456,04-02-2020,Tuesday,Vegetable Briyani,VB,Lunch,160,25,22,Working Day
+Anjappar,Mylapore,23456,04-02-2020,Tuesday,Vegretable Fried Rice,VFR,Lunch,180,15,9,Working Day
+Anjappar,Mylapore,23456,04-02-2020,Tuesday,Veg thali meals ,VMLS,Lunch,190,30,24,Working Day
+Anjappar,Mylapore,23456,04-02-2020,Tuesday,Non-veg thali meals ,NV MEALS,Lunch,225,55,51,Working Day
+Anjappar,Mylapore,23456,04-02-2020,Tuesday,Chicken Briyani,CB,Lunch,265,50,51,Working Day
+Anjappar,Mylapore,23456,04-02-2020,Tuesday,Mutton Briyani,MB,Lunch,315,40,33,Working Day
+Anjappar,Mylapore,23456,04-02-2020,Tuesday,Prawn Briyani,PB,Lunch,240,20,12,Working Day
+Anjappar,Mylapore,23456,05-02-2020,Wednesday,Vegetable Briyani,VB,Lunch,160,25,25,Working Day
+Anjappar,Mylapore,23456,05-02-2020,Wednesday,Vegretable Fried Rice,VFR,Lunch,180,15,12,Working Day
+Anjappar,Mylapore,23456,05-02-2020,Wednesday,Veg thali meals ,VMLS,Lunch,190,30,26,Working Day
+Anjappar,Mylapore,23456,05-02-2020,Wednesday,Non-veg thali meals ,NV MEALS,Lunch,225,55,51,Working Day
+Anjappar,Mylapore,23456,05-02-2020,Wednesday,Chicken Briyani,CB,Lunch,265,50,53,Working Day
+Anjappar,Mylapore,23456,05-02-2020,Wednesday,Mutton Briyani,MB,Lunch,315,40,36,Working Day
+Anjappar,Mylapore,23456,05-02-2020,Wednesday,Prawn Briyani,PB,Lunch,240,20,11,Working Day
+Anjappar,Mylapore,23456,06-02-2020,Thursday,Vegetable Briyani,VB,Lunch,160,25,20,Working Day
+Anjappar,Mylapore,23456,06-02-2020,Thursday,Vegretable Fried Rice,VFR,Lunch,180,15,13,Working Day
+Anjappar,Mylapore,23456,06-02-2020,Thursday,Veg thali meals ,VMLS,Lunch,190,30,25,Working Day
+Anjappar,Mylapore,23456,06-02-2020,Thursday,Non-veg thali meals ,NV MEALS,Lunch,225,55,52,Working Day
+Anjappar,Mylapore,23456,06-02-2020,Thursday,Chicken Briyani,CB,Lunch,265,50,52,Working Day
+Anjappar,Mylapore,23456,06-02-2020,Thursday,Mutton Briyani,MB,Lunch,315,40,36,Working Day
+Anjappar,Mylapore,23456,06-02-2020,Thursday,Prawn Briyani,PB,Lunch,240,20,14,Working Day
+Anjappar,Mylapore,23456,07-02-2020,Friday,Vegetable Briyani,VB,Lunch,160,45,38,Working Day
+Anjappar,Mylapore,23456,07-02-2020,Friday,Vegretable Fried Rice,VFR,Lunch,180,20,11,Working Day
+Anjappar,Mylapore,23456,07-02-2020,Friday,Veg thali meals ,VMLS,Lunch,190,50,42,Working Day
+Anjappar,Mylapore,23456,07-02-2020,Friday,Non-veg thali meals ,NV MEALS,Lunch,225,70,63,Working Day
+Anjappar,Mylapore,23456,07-02-2020,Friday,Chicken Briyani,CB,Lunch,265,80,74,Working Day
+Anjappar,Mylapore,23456,07-02-2020,Friday,Mutton Briyani,MB,Lunch,315,50,42,Working Day
+Anjappar,Mylapore,23456,07-02-2020,Friday,Prawn Briyani,PB,Lunch,240,40,27,Working Day
+Anjappar,Mylapore,23456,08-02-2020,Saturday,Vegetable Briyani,VB,Lunch,160,45,41,Working Day
+Anjappar,Mylapore,23456,08-02-2020,Saturday,Vegretable Fried Rice,VFR,Lunch,180,20,9,Working Day
+Anjappar,Mylapore,23456,08-02-2020,Saturday,Veg thali meals ,VMLS,Lunch,190,50,48,Working Day
+Anjappar,Mylapore,23456,08-02-2020,Saturday,Non-veg thali meals ,NV MEALS,Lunch,225,70,64,Working Day
+Anjappar,Mylapore,23456,08-02-2020,Saturday,Chicken Briyani,CB,Lunch,265,80,66,Working Day
+Anjappar,Mylapore,23456,08-02-2020,Saturday,Mutton Briyani,MB,Lunch,315,50,38,Working Day
+Anjappar,Mylapore,23456,08-02-2020,Saturday,Prawn Briyani,PB,Lunch,240,40,30,Working Day
+Anjappar,Mylapore,23456,09-02-2020,Sunday,Vegetable Briyani,VB,Lunch,160,45,30,Working Day
+Anjappar,Mylapore,23456,09-02-2020,Sunday,Vegretable Fried Rice,VFR,Lunch,180,20,9,Working Day
+Anjappar,Mylapore,23456,09-02-2020,Sunday,Veg thali meals ,VMLS,Lunch,190,50,43,Working Day
+Anjappar,Mylapore,23456,09-02-2020,Sunday,Non-veg thali meals ,NV MEALS,Lunch,225,70,64,Working Day
+Anjappar,Mylapore,23456,09-02-2020,Sunday,Chicken Briyani,CB,Lunch,265,80,65,Working Day
+Anjappar,Mylapore,23456,09-02-2020,Sunday,Mutton Briyani,MB,Lunch,315,50,49,Working Day
+Anjappar,Mylapore,23456,09-02-2020,Sunday,Prawn Briyani,PB,Lunch,240,40,25,Working Day
+Anjappar,Mylapore,23456,10-02-2020,Monday,Vegetable Briyani,VB,Lunch,160,25,24,Working Day
+Anjappar,Mylapore,23456,10-02-2020,Monday,Vegretable Fried Rice,VFR,Lunch,180,15,10,Working Day
+Anjappar,Mylapore,23456,10-02-2020,Monday,Veg thali meals ,VMLS,Lunch,190,30,26,Working Day
+Anjappar,Mylapore,23456,10-02-2020,Monday,Non-veg thali meals ,NV MEALS,Lunch,225,55,46,Working Day
+Anjappar,Mylapore,23456,10-02-2020,Monday,Chicken Briyani,CB,Lunch,265,50,48,Working Day
+Anjappar,Mylapore,23456,10-02-2020,Monday,Mutton Briyani,MB,Lunch,315,40,37,Working Day
+Anjappar,Mylapore,23456,10-02-2020,Monday,Prawn Briyani,PB,Lunch,240,20,14,Working Day
+Anjappar,Mylapore,23456,11-02-2020,Tuesday,Vegetable Briyani,VB,Lunch,160,25,20,Working Day
+Anjappar,Mylapore,23456,11-02-2020,Tuesday,Vegretable Fried Rice,VFR,Lunch,180,15,11,Working Day
+Anjappar,Mylapore,23456,11-02-2020,Tuesday,Veg thali meals ,VMLS,Lunch,190,30,25,Working Day
+Anjappar,Mylapore,23456,11-02-2020,Tuesday,Non-veg thali meals ,NV MEALS,Lunch,225,55,43,Working Day
+Anjappar,Mylapore,23456,11-02-2020,Tuesday,Chicken Briyani,CB,Lunch,265,50,53,Working Day
+Anjappar,Mylapore,23456,11-02-2020,Tuesday,Mutton Briyani,MB,Lunch,315,40,35,Working Day
+Anjappar,Mylapore,23456,11-02-2020,Tuesday,Prawn Briyani,PB,Lunch,240,20,10,Working Day
+Anjappar,Mylapore,23456,12-02-2020,Wednesday,Vegetable Briyani,VB,Lunch,160,25,22,Working Day
+Anjappar,Mylapore,23456,12-02-2020,Wednesday,Vegretable Fried Rice,VFR,Lunch,180,15,12,Working Day
+Anjappar,Mylapore,23456,12-02-2020,Wednesday,Veg thali meals ,VMLS,Lunch,190,30,22,Working Day
+Anjappar,Mylapore,23456,12-02-2020,Wednesday,Non-veg thali meals ,NV MEALS,Lunch,225,55,45,Working Day
+Anjappar,Mylapore,23456,12-02-2020,Wednesday,Chicken Briyani,CB,Lunch,265,50,51,Working Day
+Anjappar,Mylapore,23456,12-02-2020,Wednesday,Mutton Briyani,MB,Lunch,315,40,31,Working Day
+Anjappar,Mylapore,23456,12-02-2020,Wednesday,Prawn Briyani,PB,Lunch,240,20,14,Working Day
+Anjappar,Mylapore,23456,13-02-2020,Thursday,Vegetable Briyani,VB,Lunch,160,25,25,Working Day
+Anjappar,Mylapore,23456,13-02-2020,Thursday,Vegretable Fried Rice,VFR,Lunch,180,15,13,Working Day
+Anjappar,Mylapore,23456,13-02-2020,Thursday,Veg thali meals ,VMLS,Lunch,190,30,21,Working Day
+Anjappar,Mylapore,23456,13-02-2020,Thursday,Non-veg thali meals ,NV MEALS,Lunch,225,55,52,Working Day
+Anjappar,Mylapore,23456,13-02-2020,Thursday,Chicken Briyani,CB,Lunch,265,50,48,Working Day
+Anjappar,Mylapore,23456,13-02-2020,Thursday,Mutton Briyani,MB,Lunch,315,40,34,Working Day
+Anjappar,Mylapore,23456,13-02-2020,Thursday,Prawn Briyani,PB,Lunch,240,20,14,Working Day
+Anjappar,Mylapore,23456,14-02-2020,Friday,Vegetable Briyani,VB,Lunch,160,45,41,Working Day
+Anjappar,Mylapore,23456,14-02-2020,Friday,Vegretable Fried Rice,VFR,Lunch,180,20,12,Working Day
+Anjappar,Mylapore,23456,14-02-2020,Friday,Veg thali meals ,VMLS,Lunch,190,50,42,Working Day
+Anjappar,Mylapore,23456,14-02-2020,Friday,Non-veg thali meals ,NV MEALS,Lunch,225,70,64,Working Day
+Anjappar,Mylapore,23456,14-02-2020,Friday,Chicken Briyani,CB,Lunch,265,80,67,Working Day
+Anjappar,Mylapore,23456,14-02-2020,Friday,Mutton Briyani,MB,Lunch,315,50,43,Working Day
+Anjappar,Mylapore,23456,14-02-2020,Friday,Prawn Briyani,PB,Lunch,240,40,33,Working Day
+Anjappar,Mylapore,23456,15-02-2020,Saturday,Vegetable Briyani,VB,Lunch,160,45,35,Working Day
+Anjappar,Mylapore,23456,15-02-2020,Saturday,Vegretable Fried Rice,VFR,Lunch,180,20,15,Working Day
+Anjappar,Mylapore,23456,15-02-2020,Saturday,Veg thali meals ,VMLS,Lunch,190,50,47,Working Day
+Anjappar,Mylapore,23456,15-02-2020,Saturday,Non-veg thali meals ,NV MEALS,Lunch,225,70,60,Working Day
+Anjappar,Mylapore,23456,15-02-2020,Saturday,Chicken Briyani,CB,Lunch,265,80,66,Working Day
+Anjappar,Mylapore,23456,15-02-2020,Saturday,Mutton Briyani,MB,Lunch,315,50,46,Working Day
+Anjappar,Mylapore,23456,15-02-2020,Saturday,Prawn Briyani,PB,Lunch,240,40,20,Working Day
+Anjappar,Mylapore,23456,16-02-2020,Sunday,Vegetable Briyani,VB,Lunch,160,45,36,Working Day
+Anjappar,Mylapore,23456,16-02-2020,Sunday,Vegretable Fried Rice,VFR,Lunch,180,20,11,Working Day
+Anjappar,Mylapore,23456,16-02-2020,Sunday,Veg thali meals ,VMLS,Lunch,190,50,45,Working Day
+Anjappar,Mylapore,23456,16-02-2020,Sunday,Non-veg thali meals ,NV MEALS,Lunch,225,70,63,Working Day
+Anjappar,Mylapore,23456,16-02-2020,Sunday,Chicken Briyani,CB,Lunch,265,80,65,Working Day
+Anjappar,Mylapore,23456,16-02-2020,Sunday,Mutton Briyani,MB,Lunch,315,50,38,Working Day
+Anjappar,Mylapore,23456,16-02-2020,Sunday,Prawn Briyani,PB,Lunch,240,40,25,Working Day
+Anjappar,Mylapore,23456,17-02-2020,Monday,Vegetable Briyani,VB,Lunch,160,25,23,Working Day
+Anjappar,Mylapore,23456,17-02-2020,Monday,Vegretable Fried Rice,VFR,Lunch,180,15,12,Working Day
+Anjappar,Mylapore,23456,17-02-2020,Monday,Veg thali meals ,VMLS,Lunch,190,30,24,Working Day
+Anjappar,Mylapore,23456,17-02-2020,Monday,Non-veg thali meals ,NV MEALS,Lunch,225,55,51,Working Day
+Anjappar,Mylapore,23456,17-02-2020,Monday,Chicken Briyani,CB,Lunch,265,50,51,Working Day
+Anjappar,Mylapore,23456,17-02-2020,Monday,Mutton Briyani,MB,Lunch,315,40,34,Working Day
+Anjappar,Mylapore,23456,17-02-2020,Monday,Prawn Briyani,PB,Lunch,240,20,11,Working Day
+Anjappar,Mylapore,23456,18-02-2020,Tuesday,Vegetable Briyani,VB,Lunch,160,25,23,Working Day
+Anjappar,Mylapore,23456,18-02-2020,Tuesday,Vegretable Fried Rice,VFR,Lunch,180,15,9,Working Day
+Anjappar,Mylapore,23456,18-02-2020,Tuesday,Veg thali meals ,VMLS,Lunch,190,30,26,Working Day
+Anjappar,Mylapore,23456,18-02-2020,Tuesday,Non-veg thali meals ,NV MEALS,Lunch,225,55,50,Working Day
+Anjappar,Mylapore,23456,18-02-2020,Tuesday,Chicken Briyani,CB,Lunch,265,50,53,Working Day
+Anjappar,Mylapore,23456,18-02-2020,Tuesday,Mutton Briyani,MB,Lunch,315,40,30,Working Day
+Anjappar,Mylapore,23456,18-02-2020,Tuesday,Prawn Briyani,PB,Lunch,240,20,15,Working Day
+Anjappar,Mylapore,23456,19-02-2020,Wednesday,Vegetable Briyani,VB,Lunch,160,25,24,Working Day
+Anjappar,Mylapore,23456,19-02-2020,Wednesday,Vegretable Fried Rice,VFR,Lunch,180,15,13,Working Day
+Anjappar,Mylapore,23456,19-02-2020,Wednesday,Veg thali meals ,VMLS,Lunch,190,30,25,Working Day
+Anjappar,Mylapore,23456,19-02-2020,Wednesday,Non-veg thali meals ,NV MEALS,Lunch,225,55,43,Working Day
+Anjappar,Mylapore,23456,19-02-2020,Wednesday,Chicken Briyani,CB,Lunch,265,50,48,Working Day
+Anjappar,Mylapore,23456,19-02-2020,Wednesday,Mutton Briyani,MB,Lunch,315,40,36,Working Day
+Anjappar,Mylapore,23456,19-02-2020,Wednesday,Prawn Briyani,PB,Lunch,240,20,14,Working Day
+Anjappar,Mylapore,23456,20-02-2020,Thursday,Vegetable Briyani,VB,Lunch,160,25,25,Working Day
+Anjappar,Mylapore,23456,20-02-2020,Thursday,Vegretable Fried Rice,VFR,Lunch,180,15,9,Working Day
+Anjappar,Mylapore,23456,20-02-2020,Thursday,Veg thali meals ,VMLS,Lunch,190,30,25,Working Day
+Anjappar,Mylapore,23456,20-02-2020,Thursday,Non-veg thali meals ,NV MEALS,Lunch,225,55,49,Working Day
+Anjappar,Mylapore,23456,20-02-2020,Thursday,Chicken Briyani,CB,Lunch,265,50,52,Working Day
+Anjappar,Mylapore,23456,20-02-2020,Thursday,Mutton Briyani,MB,Lunch,315,40,31,Working Day
+Anjappar,Mylapore,23456,20-02-2020,Thursday,Prawn Briyani,PB,Lunch,240,20,12,Working Day
+Anjappar,Mylapore,23456,21-02-2020,Friday,Vegetable Briyani,VB,Lunch,160,45,32,Working Day
+Anjappar,Mylapore,23456,21-02-2020,Friday,Vegretable Fried Rice,VFR,Lunch,180,20,13,Working Day
+Anjappar,Mylapore,23456,21-02-2020,Friday,Veg thali meals ,VMLS,Lunch,190,50,40,Working Day
+Anjappar,Mylapore,23456,21-02-2020,Friday,Non-veg thali meals ,NV MEALS,Lunch,225,70,62,Working Day
+Anjappar,Mylapore,23456,21-02-2020,Friday,Chicken Briyani,CB,Lunch,265,80,71,Working Day
+Anjappar,Mylapore,23456,21-02-2020,Friday,Mutton Briyani,MB,Lunch,315,50,42,Working Day
+Anjappar,Mylapore,23456,21-02-2020,Friday,Prawn Briyani,PB,Lunch,240,40,20,Working Day
+Anjappar,Mylapore,23456,22-02-2020,Thursday,Vegetable Briyani,VB,Lunch,160,25,24,Working Day
+Anjappar,Mylapore,23456,22-02-2020,Thursday,Vegretable Fried Rice,VFR,Lunch,180,15,13,Working Day
+Anjappar,Mylapore,23456,22-02-2020,Thursday,Veg thali meals ,VMLS,Lunch,190,30,22,Working Day
+Anjappar,Mylapore,23456,22-02-2020,Thursday,Non-veg thali meals ,NV MEALS,Lunch,225,55,43,Working Day
+Anjappar,Mylapore,23456,22-02-2020,Thursday,Chicken Briyani,CB,Lunch,265,50,50,Working Day
+Anjappar,Mylapore,23456,22-02-2020,Thursday,Mutton Briyani,MB,Lunch,315,40,32,Working Day
+Anjappar,Mylapore,23456,22-02-2020,Thursday,Prawn Briyani,PB,Lunch,240,20,10,Working Day
+Anjappar,Mylapore,23456,23-02-2020,Friday,Vegetable Briyani,VB,Lunch,160,45,32,Working Day
+Anjappar,Mylapore,23456,23-02-2020,Friday,Vegretable Fried Rice,VFR,Lunch,180,20,13,Working Day
+Anjappar,Mylapore,23456,23-02-2020,Friday,Veg thali meals ,VMLS,Lunch,190,50,45,Working Day
+Anjappar,Mylapore,23456,23-02-2020,Friday,Non-veg thali meals ,NV MEALS,Lunch,225,70,61,Working Day
+Anjappar,Mylapore,23456,23-02-2020,Friday,Chicken Briyani,CB,Lunch,265,80,67,Working Day
+Anjappar,Mylapore,23456,23-02-2020,Friday,Mutton Briyani,MB,Lunch,315,50,42,Working Day
+Anjappar,Mylapore,23456,23-02-2020,Friday,Prawn Briyani,PB,Lunch,240,40,29,Working Day
+Anjappar,Mylapore,23456,24-02-2020,Thursday,Vegetable Briyani,VB,Lunch,160,25,23,Working Day
+Anjappar,Mylapore,23456,24-02-2020,Thursday,Vegretable Fried Rice,VFR,Lunch,180,15,9,Working Day
+Anjappar,Mylapore,23456,24-02-2020,Thursday,Veg thali meals ,VMLS,Lunch,190,30,22,Working Day
+Anjappar,Mylapore,23456,24-02-2020,Thursday,Non-veg thali meals ,NV MEALS,Lunch,225,55,43,Working Day
+Anjappar,Mylapore,23456,24-02-2020,Thursday,Chicken Briyani,CB,Lunch,265,50,52,Working Day
+Anjappar,Mylapore,23456,24-02-2020,Thursday,Mutton Briyani,MB,Lunch,315,40,38,Working Day
+Anjappar,Mylapore,23456,24-02-2020,Thursday,Prawn Briyani,PB,Lunch,240,20,15,Working Day
+Anjappar,Mylapore,23456,25-02-2020,Friday,Vegetable Briyani,VB,Lunch,160,45,37,Working Day
+Anjappar,Mylapore,23456,25-02-2020,Friday,Vegretable Fried Rice,VFR,Lunch,180,20,9,Working Day
+Anjappar,Mylapore,23456,25-02-2020,Friday,Veg thali meals ,VMLS,Lunch,190,50,45,Working Day
+Anjappar,Mylapore,23456,25-02-2020,Friday,Non-veg thali meals ,NV MEALS,Lunch,225,70,62,Working Day
+Anjappar,Mylapore,23456,25-02-2020,Friday,Chicken Briyani,CB,Lunch,265,80,65,Working Day
+Anjappar,Mylapore,23456,25-02-2020,Friday,Mutton Briyani,MB,Lunch,315,50,45,Working Day
+Anjappar,Mylapore,23456,25-02-2020,Friday,Prawn Briyani,PB,Lunch,240,40,30,Working Day
+Anjappar,Mylapore,23456,26-02-2020,Thursday,Vegetable Briyani,VB,Lunch,160,25,23,Working Day
+Anjappar,Mylapore,23456,26-02-2020,Thursday,Vegretable Fried Rice,VFR,Lunch,180,15,10,Working Day
+Anjappar,Mylapore,23456,26-02-2020,Thursday,Veg thali meals ,VMLS,Lunch,190,30,24,Working Day
+Anjappar,Mylapore,23456,26-02-2020,Thursday,Non-veg thali meals ,NV MEALS,Lunch,225,55,43,Working Day
+Anjappar,Mylapore,23456,26-02-2020,Thursday,Chicken Briyani,CB,Lunch,265,50,51,Working Day
+Anjappar,Mylapore,23456,26-02-2020,Thursday,Mutton Briyani,MB,Lunch,315,40,32,Working Day
+Anjappar,Mylapore,23456,26-02-2020,Thursday,Prawn Briyani,PB,Lunch,240,20,12,Working Day
+Anjappar,Mylapore,23456,27-02-2020,Friday,Vegetable Briyani,VB,Lunch,160,45,36,Working Day
+Anjappar,Mylapore,23456,27-02-2020,Friday,Vegretable Fried Rice,VFR,Lunch,180,20,9,Working Day
+Anjappar,Mylapore,23456,27-02-2020,Friday,Veg thali meals ,VMLS,Lunch,190,50,45,Working Day
+Anjappar,Mylapore,23456,27-02-2020,Friday,Non-veg thali meals ,NV MEALS,Lunch,225,70,64,Working Day
+Anjappar,Mylapore,23456,27-02-2020,Friday,Chicken Briyani,CB,Lunch,265,80,73,Working Day
+Anjappar,Mylapore,23456,27-02-2020,Friday,Mutton Briyani,MB,Lunch,315,50,48,Working Day
+Anjappar,Mylapore,23456,27-02-2020,Friday,Prawn Briyani,PB,Lunch,240,40,29,Working Day
+Anjappar,Mylapore,23456,27-02-2020,Thursday,Vegetable Briyani,VB,Lunch,160,25,20,Working Day
+Anjappar,Mylapore,23456,28-02-2020,Thursday,Vegretable Fried Rice,VFR,Lunch,180,15,9,Working Day
+Anjappar,Mylapore,23456,28-02-2020,Thursday,Veg thali meals ,VMLS,Lunch,190,30,22,Working Day
+Anjappar,Mylapore,23456,28-02-2020,Thursday,Non-veg thali meals ,NV MEALS,Lunch,225,55,46,Working Day
+Anjappar,Mylapore,23456,28-02-2020,Thursday,Chicken Briyani,CB,Lunch,265,50,51,Working Day
+Anjappar,Mylapore,23456,28-02-2020,Thursday,Mutton Briyani,MB,Lunch,315,40,37,Working Day
+Anjappar,Mylapore,23456,28-02-2020,Thursday,Prawn Briyani,PB,Lunch,240,20,12,Working Day
+Anjappar,Mylapore,23456,29-02-2020,Friday,Vegetable Briyani,VB,Lunch,160,45,31,Working Day
+Anjappar,Mylapore,23456,29-02-2020,Friday,Vegretable Fried Rice,VFR,Lunch,180,20,16,Working Day
+Anjappar,Mylapore,23456,29-02-2020,Friday,Veg thali meals ,VMLS,Lunch,190,50,45,Working Day
+Anjappar,Mylapore,23456,29-02-2020,Friday,Non-veg thali meals ,NV MEALS,Lunch,225,70,60,Working Day
+Anjappar,Mylapore,23456,29-02-2020,Friday,Chicken Briyani,CB,Lunch,265,80,68,Working Day
+Anjappar,Mylapore,23456,29-02-2020,Friday,Mutton Briyani,MB,Lunch,315,50,46,Working Day
+Anjappar,Mylapore,23456,29-02-2020,Friday,Prawn Briyani,PB,Lunch,240,40,27,Working Day
+Anjappar,Mylapore,23456,01-03-2020,Thursday,Vegetable Briyani,VB,Lunch,160,25,20,Working Day
+Anjappar,Mylapore,23456,01-03-2020,Thursday,Vegretable Fried Rice,VFR,Lunch,180,15,11,Working Day
+Anjappar,Mylapore,23456,01-03-2020,Thursday,Veg thali meals ,VMLS,Lunch,190,30,27,Working Day
+Anjappar,Mylapore,23456,01-03-2020,Thursday,Non-veg thali meals ,NV MEALS,Lunch,225,55,44,Working Day
+Anjappar,Mylapore,23456,01-03-2020,Thursday,Chicken Briyani,CB,Lunch,265,50,50,Working Day
+Anjappar,Mylapore,23456,01-03-2020,Thursday,Mutton Briyani,MB,Lunch,315,40,38,Working Day
+Anjappar,Mylapore,23456,01-03-2020,Thursday,Prawn Briyani,PB,Lunch,240,20,9,Working Day
+Anjappar,Mylapore,23456,02-03-2020,Friday,Vegetable Briyani,VB,Lunch,160,45,39,Working Day
+Anjappar,Mylapore,23456,02-03-2020,Friday,Vegretable Fried Rice,VFR,Lunch,180,20,12,Working Day
+Anjappar,Mylapore,23456,02-03-2020,Friday,Veg thali meals ,VMLS,Lunch,190,50,47,Working Day
+Anjappar,Mylapore,23456,02-03-2020,Friday,Non-veg thali meals ,NV MEALS,Lunch,225,70,61,Working Day
+Anjappar,Mylapore,23456,02-03-2020,Friday,Chicken Briyani,CB,Lunch,265,80,71,Working Day
+Anjappar,Mylapore,23456,02-03-2020,Friday,Mutton Briyani,MB,Lunch,315,50,38,Working Day
+Anjappar,Mylapore,23456,02-03-2020,Friday,Prawn Briyani,PB,Lunch,240,40,22,Working Day
